@@ -1,0 +1,4 @@
+--Evade
+ if game.PlaceId == 9872472334 or 10662542523 or 10324347967 or 10324346056 or 10539706691 then
+    loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/WraithTheWise/evadewraithx/main/Protected%20(1).lua", true))();
+ end
