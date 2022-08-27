@@ -4,6 +4,6 @@
  end
 
 -- No Scope Arcade
- if game.PlaceId == 6407649031
+ if game.PlaceId == 6407649031 then
     loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/WraithTheWise/no-scope-sim/main/Protected%20(2).lua"))();
  end
