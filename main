@@ -3,7 +3,7 @@
     loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/WraithTheWise/evadewraithx/main/Protected%20(1).lua", true))();
  end
 
--- No Scope Arcade
+--No Scope Arcade
  if game.PlaceId == 6407649031 then
     loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/WraithTheWise/no-scope-sim/main/Protected%20(2).lua"))();
  end
